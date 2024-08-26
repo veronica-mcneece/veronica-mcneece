@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @veronica-mcneece
-- 👀 I’m interested in ... painting, web design, and 
+- 👀 I’m interested in ... painting and web design
 - 🌱 I’m currently learning ... ASL, Python, Java, and Psychology
 - 💞️ I’m looking to collaborate on ... anything
 - 📫 How to reach me ... mcneece01@allegheny.edu
